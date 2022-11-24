@@ -1,0 +1,39 @@
+.wpg {
+  height: 80px;
+  width: 80%;
+  padding-top: 20px;
+  margin: auto;
+}
+header {
+  font-size: 40px;
+  font-family: Diplomatia Two;
+  word-spacing: 20px;
+  font-weight: lighter;
+  text-align: center;
+}
+.block_1 {
+  padding-top: 25px;
+  margin: auto;
+  height: 30%;
+  width: 100%;
+}
+.block_2 {
+  padding-top: 35px;
+  margin: auto;
+  height: 40%;
+  width: 100%;
+}
+img {
+  border-radius: 25px;
+  border: 0.5px solid;
+  box-shadow: 0 7px 10px 0 rgba(238, 6, 6, 0.952);
+  width: 300px;
+  height: 200px;
+  margin-left: 102px;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font: bold;
+}
